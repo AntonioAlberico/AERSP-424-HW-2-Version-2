@@ -4,4 +4,4 @@ Perhaps it just a function of my mediocre computer, but my planes update really 
 
 Here is a link to my github repo:
 
-https://github.com/AntonioAlberico/AERSP-424-HW-2
+https://github.com/AntonioAlberico/AERSP-424-HW-2-Version-2
